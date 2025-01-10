@@ -37,7 +37,7 @@ O projeto envolve a coleta, análise e modelagem de dados relacionados a ocorrê
   - Pandas, NumPy (manipulação e análise de dados)
   - Scikit-learn, TensorFlow (modelagem e aprendizado de máquina)
   - Matplotlib, Seaborn (visualização de dados)
-- **Plataformas de Deploy**: Flask, Streamlit
+- **Plataformas de Deploy**: Flask, fastapi
 - **Ferramentas de Colaboração**: GitHub, Google Colab
 
 ---

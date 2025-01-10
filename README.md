@@ -12,7 +12,7 @@ O projeto envolve a coleta, análise e modelagem de dados relacionados a ocorrê
    
 2. **Pré-processamento**: Tratamento de dados para lidar com valores ausentes, normalização e transformação de variáveis categóricas em numéricas.
 
-3. **Modelagem**: Aplicação de algoritmos como Regressão Logística, Random Forest e Redes Neurais para prever a probabilidade de crimes em regiões específicas.
+3. **Modelagem**: Aplicação de algoritmos como  Random Forest para prever a probabilidade de crimes em regiões específicas.
 
 4. **Validação**: Avaliação do desempenho dos modelos por meio de métricas como Acurácia, Precisão, Recall e F1-Score.
 
